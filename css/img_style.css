@@ -1,0 +1,17 @@
+.placeholder img {
+display: inline-block;
+border-radius: 50%;
+}
+
+
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+display: block;
+width: 100% \9;
+max-width: 100%;
+height: auto;
+}
+
+.placeholders {
+margin-bottom: 30px;
+text-align: center;
+}
